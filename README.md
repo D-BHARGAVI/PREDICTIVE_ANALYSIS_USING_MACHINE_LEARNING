@@ -36,3 +36,12 @@ The target is to predict the flower type: Setosa, Versicolor, or Virginica.
 
 -> Conclusion 
 I learned how to train and test a classification model using Python and scikit-learn.
+
+OUTPUT:(Screenshots)
+1. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/08fb85f8-0c7c-428a-a4d8-4995cb23a228" />
+
+2. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8197124b-b156-4f0a-aebb-51004cf254e6" />
+
+3. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/617322e5-217c-46ce-8d5b-44019b2181a5" />
+
+4. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7885e1c6-80fb-4d79-8973-53b6f16a2223" />
